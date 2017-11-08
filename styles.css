@@ -60,7 +60,7 @@ a:hover {
 }
 
 .intro {
-  background-image: url(Resources/img-mission-background.jpg);
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
   background-repeat: no-repeat;
   background-position: center;
   width: 1200px;
@@ -116,7 +116,7 @@ h4 {
 }
 
 .locimage {
-  background-image: url(Resources/img-locations-background.jpg);
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
   background-repeat: no-repeat;
   background-position: center;
   width: 1200px;
