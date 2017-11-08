@@ -112,6 +112,7 @@ h4 {
    display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 
 .locimage {
@@ -127,10 +128,6 @@ h4 {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-}
-
-.title{
- 
 }
 
 #downtown,
