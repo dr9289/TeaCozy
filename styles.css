@@ -48,11 +48,6 @@ a:visited {
   color: seashell;
 }
 
-a:hover {
-  font-weight: bold;
-  
-}
-
 .main {
   padding-top: 69px;
   display: flex;
