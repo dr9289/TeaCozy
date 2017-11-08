@@ -43,13 +43,14 @@ nav span {
   text-decoration: underline;
 }
 
-a:hover,
+a, a:hover,
 a:visited {
   color: seashell;
 }
 
 a:hover {
   font-weight: bold;
+  
 }
 
 .main {
@@ -141,7 +142,7 @@ h4 {
   height: 250px;
   background-color: #000;
   opacity: 0.9;
-  margin-right: 10px;
+  margin-right: 30px;
 }
 
 .address {
